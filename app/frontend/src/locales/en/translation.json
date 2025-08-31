@@ -50,7 +50,7 @@
         "3": "Can you identify any correlation between oil prices and stock market trends?",
         "placeholder": "Example: What are the steps for conducting an internal audit?"
     },
-    "generatingAnswer": "Generating answer",
+    "generatingAnswer": "Thinking",
     "citationWithColon": "Citation:",
     "followupQuestions": "Follow-up questions:",
 
